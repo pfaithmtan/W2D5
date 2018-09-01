@@ -7,6 +7,7 @@ class HashSet
   end
 
   def insert(key)
+    
   end
 
   def include?(key)
